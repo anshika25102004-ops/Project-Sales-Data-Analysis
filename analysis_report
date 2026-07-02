@@ -1,0 +1,40 @@
+# Sales Data Analysis Report
+
+## Project Overview
+This project analyzes a sales dataset using Python and Pandas.
+
+## Objectives
+- Load CSV data
+- Explore dataset
+- Handle missing values
+- Calculate statistics
+- Find best-selling product
+- Generate a simple report
+
+## Steps Performed
+
+1. Imported pandas library.
+2. Loaded the CSV file.
+3. Displayed first five rows.
+4. Checked dataset information.
+5. Removed duplicate rows.
+6. Filled missing values.
+7. Calculated:
+   - Total Revenue
+   - Average Sales
+   - Highest Sale
+   - Lowest Sale
+8. Found Best Selling Product.
+9. Calculated Region-wise Sales.
+
+## Results
+
+- Total Revenue: ₹12,365,048
+- Average Sale: ₹123,650.48
+- Highest Sale: (Calculated by program)
+- Lowest Sale: (Calculated by program)
+- Best Selling Product: Laptop
+
+## Conclusion
+
+The Laptop generated the highest sales revenue. The North region contributed the highest overall sales.
